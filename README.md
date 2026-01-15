@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-💻 Estudiante de cuarto año de Ingeniería en Sistemas, con una fuerte orientación al desarrollo de software y la resolución de problemas técnicos.
+💻 Estudiante de quinto año de Ingeniería en Sistemas, con una fuerte orientación al desarrollo de software y la resolución de problemas técnicos.
 🚀 Poseo experiencia práctica en el diseño y construcción de aplicaciones web, trabajando con bases de datos, APIs y automatización de procesos.
 🔍 Me adapto con facilidad a nuevas herramientas y entornos, y cuento con una sólida comprensión de los fundamentos de programación, estructuras de datos y modelos de diseño.
 😊 Me destaco por mi compromiso, responsabilidad, capacidad de aprendizaje continuo y habilidades para el trabajo en equipo, así como por una comunicación clara y efectiva.
